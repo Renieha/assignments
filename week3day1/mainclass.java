@@ -12,6 +12,6 @@ public class  mainclass {
      LoginTestData loginTestData = new LoginTestData();
      loginTestData.enterCredentials();       
      loginTestData.navigateToHomePage();    
-     loginTestData.enterUsername("user123"); 
-     loginTestData.enterPassword("pass123"); 
+     loginTestData.enterUsername("renisha"); 
+     loginTestData.enterPassword("reni43"); 
 }
