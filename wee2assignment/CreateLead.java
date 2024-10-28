@@ -33,9 +33,9 @@ public class CreateLead {
 		
 		driver.findElement(By.linkText("Create Lead")).click();  //click on Create Lead button
 		
-		driver.findElement(By.id("createLeadForm_firstName")).sendKeys("Sangameswari"); //Enter the Firstname
+		driver.findElement(By.id("createLeadForm_firstName")).sendKeys("Renisha"); //Enter the Firstname
 		
-		driver.findElement(By.id("createLeadForm_lastName")).sendKeys("Raja"); //Enter the Lastname
+		driver.findElement(By.id("createLeadForm_lastName")).sendKeys("R"); //Enter the Lastname
 		
 		driver.findElement(By.id("createLeadForm_companyName")).sendKeys("Testleaf"); //Enter the Company name
 		
