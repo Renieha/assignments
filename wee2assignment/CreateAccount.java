@@ -25,7 +25,7 @@ ChromeDriver driver = new ChromeDriver(); //Launch the browser
 		
 		driver.findElement(By.linkText("Create Account")).click(); //click on Create Account
 		
-		driver.findElement(By.xpath("//input[@id='accountName']")).sendKeys("Testleaf10102"); //locate and enter AccountName
+		driver.findElement(By.xpath("//input[@id='accountName']")).sendKeys("Testleaf10342"); //locate and enter AccountName
 		
 		driver.findElement(By.xpath("//textarea[@name='description']")).sendKeys("Selenium Automation Tester"); //enter the given Description
 		
