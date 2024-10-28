@@ -21,7 +21,7 @@ public class Elements {
 
      System.out.println();
 
-     // Creating an object of CheckBoxButton
+    
      CheckBoxButton checkBoxButton = new CheckBoxButton();
      checkBoxButton.click();         
      checkBoxButton.submit();          
