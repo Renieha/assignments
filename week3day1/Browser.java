@@ -2,7 +2,7 @@ package week3.day1;
 
 public class Browser {
 String browserName = "Chrome";
-float browserVersion = 3.0f;
+float browserVersion = 4.0f;
 	public void openURL() {
 		System.out.println("The URL is opened");
 	}
